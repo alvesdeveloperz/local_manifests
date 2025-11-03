@@ -1,3 +1,3 @@
 ```
-git clone https://github.com/Trijal08/local_manifests -b TenX_OS-shusky .repo/local_manifests
+git clone https://github.com/alvesdeveloperz/local_manifests -b Lunaris-AOSP-16 .repo/local_manifests
 ```
