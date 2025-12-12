@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <!-- Device -->
     <project remote="github"
              name="crdroidandroid/android_device_samsung_sm7325-common"
              path="device/samsung/sm7325-common"
              revision="16.0" />
 
-    <!-- Tua device tree → AxionAOSP-16.0 -->
     <project remote="github"
              name="alvesdeveloperz/android_device_samsung_m52xq"
              path="device/samsung/m52xq"
              revision="AxionAOSP-16.0" />
 
-    <!-- Vendor -->
     <project remote="github"
              name="crdroidandroid/proprietary_vendor_samsung_m52xq"
              path="vendor/samsung/m52xq"
@@ -22,13 +19,11 @@
              path="vendor/samsung/sm7325-common"
              revision="16.0" />
 
-    <!-- Kernel -->
     <project remote="github"
              name="crdroidandroid/android_kernel_samsung_sm7325"
              path="kernel/samsung/sm7325"
              revision="16.0" />
 
-    <!-- Hardware -->
     <project remote="github"
              name="crdroidandroid/android_hardware_samsung"
              path="hardware/samsung"
